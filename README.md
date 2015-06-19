@@ -30,10 +30,10 @@ NaNを表現するためにNoneを使用しています。
 
 ## 動作確認環境:
 ```
-$ cat /etc/redhat-release  
-Fedora release 22 (Twenty Two)  
-$ uname -rvo  
-4.0.4-303.fc22.x86_64 #1 SMP Thu May 28 12:37:06 UTC 2015 GNU/Linux  
-$ python -V  
+$ cat /etc/redhat-release
+Fedora release 22 (Twenty Two)
+$ uname -rvo
+4.0.4-303.fc22.x86_64 #1 SMP Thu May 28 12:37:06 UTC 2015 GNU/Linux
+$ python -V
 Python 2.7.10
 ```
