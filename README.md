@@ -15,8 +15,8 @@ http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11136503501
 問題(1)の浮動小数点数版。
 
 ## 使い方:
-`$ python calc_error_detection.py int`
-`$ python calc_error_detection.py float`
+`$ python calc-error-detection.py int`
+`$ python calc-error-detection.py float`
 
 ## 出力:
 式 = 真の答え (誤差を含んだ答え)

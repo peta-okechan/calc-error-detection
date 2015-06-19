@@ -5,8 +5,8 @@
 計算誤差の検出
 
 使い方:
-python calc_error_detection.py int
-python calc_error_detection.py float
+python calc-error-detection.py int
+python calc-error-detection.py float
 """
 
 # 以下の行を有効にすると標準ライブラリの分数クラスを使用する(高機能な分遅い)
